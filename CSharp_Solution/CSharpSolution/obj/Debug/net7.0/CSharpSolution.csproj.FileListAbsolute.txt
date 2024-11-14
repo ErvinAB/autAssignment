@@ -1,0 +1,5 @@
+C:\Users\ervin\OneDrive\Desktop\autAssignment\CSharp_Solution\CSharpSolution\obj\Debug\net7.0\CSharpSolution.csproj.AssemblyReference.cache
+C:\Users\ervin\OneDrive\Desktop\autAssignment\CSharp_Solution\CSharpSolution\obj\Debug\net7.0\CSharpSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ervin\OneDrive\Desktop\autAssignment\CSharp_Solution\CSharpSolution\obj\Debug\net7.0\CSharpSolution.AssemblyInfoInputs.cache
+C:\Users\ervin\OneDrive\Desktop\autAssignment\CSharp_Solution\CSharpSolution\obj\Debug\net7.0\CSharpSolution.AssemblyInfo.cs
+C:\Users\ervin\OneDrive\Desktop\autAssignment\CSharp_Solution\CSharpSolution\obj\Debug\net7.0\CSharpSolution.csproj.CoreCompileInputs.cache
